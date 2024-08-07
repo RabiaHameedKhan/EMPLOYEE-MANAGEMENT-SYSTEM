@@ -1,0 +1,147 @@
+------------------------------------
+Employee Name: rabia
+Employee ID: Finance_1
+Employee Designation: accountant
+Employee Department: Finance
+Employee Salary: 60000.00
+------------------------------------
+------------------------------------
+Employee Name: rr
+Employee ID: Finance_2
+Employee Designation: accountant manager
+Employee Department: Finance
+Employee Salary: 60000.00
+------------------------------------
+------------------------------------
+Employee Name: hjff
+Employee ID: Sales_1
+Employee Designation: sales director
+Employee Department: Sales
+Employee Salary: 70000.00
+------------------------------------
+------------------------------------
+Employee Name: ehf
+Employee ID: Sales_2
+Employee Designation: sales director
+Employee Department: Sales
+Employee Salary: 70000.00
+------------------------------------
+------------------------------------
+Employee Name: Fozia Khan
+Employee ID: HR_1
+Employee Designation: hr manager
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: RABIA KHAN
+Employee ID: HR_1
+Employee Designation: hr
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: Rabia
+Employee ID: HR_2
+Employee Designation: hr manager
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: Rabia
+Employee ID: Software_1
+Employee Designation: web developer
+Employee Department: Software
+Employee Salary: 80000.00
+------------------------------------
+------------------------------------
+Employee Name: Rabia Khan
+Employee ID: HR_1
+Employee Designation: hr
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: Rabia
+Employee ID: HR_2
+Employee Designation: hr manager
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: rabia
+Employee ID: Finance_1
+Employee Designation: accountant
+Employee Department: Finance
+Employee Salary: 60000.00
+------------------------------------
+------------------------------------
+Employee Name: rabia khan
+Employee ID: Software_1
+Employee Designation: web developer
+Employee Department: Software
+Employee Salary: 80000.00
+------------------------------------
+------------------------------------
+Employee Name: John
+Employee ID: Finance_1
+Employee Designation: accountant
+Employee Department: Finance
+Employee Salary: 60000.00
+------------------------------------
+------------------------------------
+Employee Name: Smith
+Employee ID: HR_1
+Employee Designation: hr manager
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: aron
+Employee ID: Software_1
+Employee Designation: web developer
+Employee Department: Software
+Employee Salary: 80000.00
+------------------------------------
+------------------------------------
+Employee Name: Angelina
+Employee ID: Finance_2
+Employee Designation: accountant manager
+Employee Department: Finance
+Employee Salary: 60000.00
+------------------------------------
+------------------------------------
+Employee Name: john
+Employee ID: HR_1
+Employee Designation: hr
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: john
+Employee ID: HR_1
+Employee Designation: hr
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: smith
+Employee ID: HR_2
+Employee Designation: hr manager
+Employee Department: HR
+Employee Salary: 50000.00
+------------------------------------
+------------------------------------
+Employee Name: angelina
+Employee ID: Finance_1
+Employee Designation: accountant manager
+Employee Department: Finance
+Employee Salary: 60000.00
+------------------------------------
+------------------------------------
+Employee Name: Aron
+Employee ID: Software_1
+Employee Designation: web developer
+Employee Department: Software
+Employee Salary: 80000.00
+------------------------------------
